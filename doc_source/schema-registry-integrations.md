@@ -511,7 +511,7 @@ env.execute();
 
 ## Use Case: Integration with AWS Lambda<a name="schema-registry-integrations-aws-lambda"></a>
 
-To use an AWS Lambdafunction as an Apache Kafka/Amazon MSK consumer and deserialize Avro\-encoded messages using AWS Glue Schema Registry, visit the [MSK Labs page](https://amazonmsk-labs.workshop.aws/en/msklambda/gsrschemareg.html)\.
+To use an AWS Lambda function as an Apache Kafka/Amazon MSK consumer and deserialize Avro\-encoded messages using AWS Glue Schema Registry, visit the [MSK Labs page](https://amazonmsk-labs.workshop.aws/en/msklambda/gsrschemareg.html)\.
 
 ## Use Case: AWS Glue Data Catalog<a name="schema-registry-integrations-aws-glue-data-catalog"></a>
 
